@@ -1,0 +1,17 @@
+body {
+  background-image: url("../img/background.jpg"); }
+
+nav.top-bar {
+  text-align: center; }
+
+section.top-bar-section {
+  display: inline-block; }
+
+footer {
+  text-align: center; }
+
+.pad {
+  padding: 4% 4% 4% 4%; }
+
+.main {
+  margin-lfet: 5%; }
